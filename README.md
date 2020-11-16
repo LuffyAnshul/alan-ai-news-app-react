@@ -1,3 +1,8 @@
+# Demo Images
+
+![Home Page of Localhost:3000](https://github.com/LuffyAnshul/alan-ai-news-app-react/blob/master/imagesShowcase/homePage.png)
+![Search Result Page](https://github.com/LuffyAnshul/alan-ai-news-app-react/blob/master/imagesShowcase/searchResult.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
