@@ -1,7 +1,7 @@
 intent('What does this app do?', 'What can i do with this app', 
        reply('This is a news project.'));
 
-const API_KEY = '{your-api-code}';
+const API_KEY = '{your-api-key}';
 let savedArticles = [];
 
 // News by Source
