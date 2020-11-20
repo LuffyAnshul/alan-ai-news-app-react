@@ -3,6 +3,21 @@
 ![Home Page of Localhost:3000](https://github.com/LuffyAnshul/alan-ai-news-app-react/blob/master/imagesShowcase/homePage.png)
 ![Search Result Page](https://github.com/LuffyAnshul/alan-ai-news-app-react/blob/master/imagesShowcase/searchResult.png)
 
+# Direction to use Code
+
+## Create Account and Generate API Key
+
+Create an account on [Alan AI](https://studio.alan.app/login) create new
+
+### `Empty Project`
+Paste the alan-ai-code.js file in the Window.
+
+Click on Integrations and code the 
+
+### `Alan SDK Key`
+
+Paste the API KEY in App.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
